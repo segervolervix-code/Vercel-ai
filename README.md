@@ -1,5 +1,3 @@
-Here’s a clean, professional **README.md** you can drop directly into your project.  
-It explains setup, security, API flow, deployment, and structure — all in a way that helps someone understand exactly how your futuristic AI console works.
 
 ---
 
@@ -194,4 +192,4 @@ MIT License — free to use, modify, and deploy.
 
 ---
 
-If you want, I can also generate a **CONTRIBUTING.md**, **API documentation**, or a **Vercel deployment badge**.
+
